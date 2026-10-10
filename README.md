@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Arowolo Riliwan |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/riliwan-arowolo) |
+| **LinkedIn** | [Arowolo-riliwn](https://www.linkedin.com/in/riliwan-arowolo) |
 | **Location** | Lagos, Nigeria |
 | **Background** | Cloud & DevOps|
 | **Goal** | To become a profssioal Devops Engineer |
