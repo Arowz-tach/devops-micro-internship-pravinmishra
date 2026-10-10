@@ -14,7 +14,8 @@ Write at least **50 words**. Be honest, specific, and use clear professional sen
 
 ### Your Answer
 
-Add your answer here...
+I believe that everyone has a different path in life, and we cannot all achieve success in the same way or at the same time. Many people may disagree with me because they believe success depends mainly on luck, connections, or getting help from others. However, I believe that everyone needs to create a personal system that works for them, stay disciplined, and take responsibility for their growth. I also believe we should not depend on getting free things or wait for people to provide everything for us. Instead, we should be willing to learn, work hard, create opportunities, and build something for ourselves. Help from others is valuable, but we should not make it our only plan for success.
+
 
 ---
 
@@ -26,31 +27,38 @@ Write three objective truths you discovered through your own actions and results
 
 **Truth**
 
-Add your answer here...
+### Truth #1
+
+Repeated study, personal practice, and learning from different tutors help me understand topics better.
+
 
 **Evidence from My Life**
 
-Add your answer here...
+As I learn Bash, Python, and DevOps, I have discovered that listening to a lesson once is not always enough for me to understand everything. When I study repeatedly and practice on my own, I gradually understand the concepts better. Listening to different tutors also helps me see the same topic from different perspectives and learn things I may have missed the first time.
+
+
 
 ### Truth #2
 
-**Truth**
+**Truth:** Taking responsibility for my own learning helps me improve.
 
-Add your answer here...
+
+
 
 **Evidence from My Life**
 
-Add your answer here...
+As I learn DevOps, Bash, and Python, I have realized that I cannot depend entirely on a teacher or tutor to understand everything. I need to take the initiative to study on my own, practice commands, research topics I do not understand, and ask questions when I face difficulties. This approach helps me become more independent and take ownership of my progress.
+
+
 
 ### Truth #3
 
-**Truth**
+**Truth:** Waiting for the perfect opportunity can delay progress; taking action helps me move forward.
 
-Add your answer here...
+**Evidence from My Life:**
 
-**Evidence from My Life**
+I have learned that waiting until everything is perfect can prevent me from making progress toward my goals. Instead of waiting until I have all the resources or understand everything, I need to start with what I have and improve along the way. By taking action, learning from my experiences, and correcting my mistakes, I can gradually develop my skills and create better opportunities for myself.
 
-Add your answer here...
 
 ---
 
@@ -67,12 +75,28 @@ Your article must:
 
 ### My Article
 
-Paste your complete article here...
+# From Beginner to Cloud and DevOps Engineer: The Journey of Arowolo Riliwan Olaitan
+
+By 2030, Arowolo Riliwan Olaitan had built a successful career in Cloud Computing and DevOps through consistent learning, practical experience, discipline, and a willingness to learn from mistakes. His journey began with a strong interest in technology and a determination to develop the skills required to solve real-world problems.
+
+After building his foundation in Computer Science Education, Arowolo focused on strengthening his knowledge of Linux, networking, Bash scripting, Python, cloud computing, and DevOps practices. Rather than relying only on tutorials, he practiced commands, built projects, researched unfamiliar concepts, and learned from different instructors. He understood that becoming a skilled engineer required more than certificates; it required the ability to apply knowledge to real situations.
+
+Throughout his journey, Arowolo developed a portfolio of practical projects that demonstrated his technical abilities. He built automation scripts to simplify repetitive tasks, containerized applications with Docker, and used Git and GitHub to manage source code. He also developed experience with CI/CD pipelines, infrastructure as code using Terraform, and deploying applications to cloud environments. His projects included clear documentation explaining the problems they solved, the technologies used, and the lessons learned.
+
+His GitHub portfolio became evidence of his growth. Instead of merely listing technologies on his CV, he demonstrated what he could build and how he approached technical challenges. He also strengthened his understanding of troubleshooting, system administration, networking, monitoring, and cloud infrastructure.
+
+As his skills developed, Arowolo earned relevant professional certifications and used the knowledge gained from them in practical projects. He progressed into a Cloud and DevOps engineering role, where he contributed to improving deployment processes, automating operational tasks, supporting reliable infrastructure, and helping teams deliver software more efficiently.
+
+Beyond his technical responsibilities, Arowolo improved his communication, teamwork, problem-solving, and documentation skills. His background in education helped him explain technical concepts clearly and support other learners. He shared lessons from his journey, documented his projects publicly, and contributed to technical communities and open-source initiatives.
+
+One of the most important principles behind his progress was taking responsibility for his own development. He learned that waiting for the perfect opportunity could delay progress. Instead, he started with the resources available to him, remained consistent, accepted feedback, and improved through practice.
+
+By 2030, Arowolo's journey demonstrated that meaningful career growth did not happen overnight. It came from building good habits, producing visible evidence of skills, learning continuously, and taking action even when the path was challenging. His achievement was not simply becoming a Cloud and DevOps Engineer; it was becoming a disciplined professional who could solve problems, contribute to a team, and continue growing in a rapidly changing technology industry.
+
 
 ### Public Article URL
 
-```text
-Paste your published article URL here...
+``` https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-my-journey-to-2030-4c1303fafab1
 ```
 
 ### LinkedIn Post URL
@@ -117,11 +141,14 @@ You do not need to tell the full story. Focus on the emotions you experienced. I
 
 **Yes / No:**
 
-Add your answer here...
+yes
 
 **Reflection:**
 
-Add your answer here...
+**Task 4: Reflection on Cutting Corners**
+
+Yes, I have cut corners before, and the feeling I experienced afterward was shame. It made me reflect on my choices and recognize the importance of doing things the right way, even when it takes more time or effort. I learned that taking shortcuts may seem easier in the moment, but it can leave me feeling disappointed in myself. Going forward, I want to be more honest, patient, and disciplined in my decisions and take responsibility for my actions.
+
 
 ---
 
@@ -129,16 +156,16 @@ Add your answer here...
 
 List **10 non-fiction books** you plan to read during the next year. Include the title and author of each book. Books in any language are allowed.
 
-1. Add book title and author here...
-2. Add book title and author here...
-3. Add book title and author here...
-4. Add book title and author here...
-5. Add book title and author here...
-6. Add book title and author here...
-7. Add book title and author here...
-8. Add book title and author here...
-9. Add book title and author here...
-10. Add book title and author here...
+1. Atomic Habits — James Clear
+2. Mindset: The New Psychology of Success — Carol S. Dweck
+3. Deep Work — Cal Newport
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. The Psychology of Money — Morgan Housel
+6. So Good They Can't Ignore You — Cal Newport
+7. The Lean Startup — Eric Ries
+8. The First 90 Days — Michael D. Watkins
+9. The Phoenix Project — Gene Kim, Kevin Behr, and George Spafford
+10. The Effective Engineer — Edmond Lau
 
 ---
 
@@ -172,7 +199,7 @@ Do a private brain dump in a notebook, notes app, or document. Include everythin
 **Did you create a brain dump?**
 
 ```text
-Yes / No
+No
 ```
 
 ### Step 2 — My Three-Month Routine and Focus Blocks
@@ -222,8 +249,9 @@ Paste your LinkedIn post URL here...
 
 **Blog / Medium / Public Article URL**
 
-```text
-Paste your published article URL here...
+```
+https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-my-journey-to-2030-4c1303fafab1?postPublishedType=initial
+
 ```
 
 ---
