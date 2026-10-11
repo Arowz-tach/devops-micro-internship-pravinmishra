@@ -321,8 +321,7 @@ https://lnkd.in/p/eMkjuK8A
 ---
 
 ## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
+https://lnkd.in/p/eMkjuK8A
 
 🚀 **My DevOps Learning Journey — Week 00**
 
@@ -363,18 +362,18 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Foundation Track
 ### What did you find easy?
 
 Add your answer here...
-
+i am a computer science graduate so most of the terms are familiar with me 
 ---
 
 ### What was difficult?
 
 Add your answer here...
-
+ troubleshooting with chat gpt only 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+ i will improve the time of studding 
 
 ---
 
