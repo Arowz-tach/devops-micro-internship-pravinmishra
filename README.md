@@ -83,8 +83,8 @@ This is not a course. It is an internship-style program — real deployments, re
 `-->` Week 00 → Internet & Networking Basics -->
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+`-->`Week 01 → Success Mindset -->
+ [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -144,7 +144,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/eMkjuK8A | https://medium.com/@kadimussomodani/my-devops-learning-journey-week-00-how-the-internet-actually-works-8aa6eeeb15d6 |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-my-journey-to-2030-4c1303fafab1?postPublishedType=initial |
+| 01 | Success Mindset | ✅ Completed  | ✅ Solved | https://lnkd.in/p/emkA27dN| https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-my-journey-to-2030-4c1303fafab1?postPublishedType=initial |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

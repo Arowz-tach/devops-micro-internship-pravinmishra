@@ -42,14 +42,9 @@ As I learn Bash, Python, and DevOps, I have discovered that listening to a lesso
 
 **Truth:** Taking responsibility for my own learning helps me improve.
 
-
-
-
 **Evidence from My Life**
 
 As I learn DevOps, Bash, and Python, I have realized that I cannot depend entirely on a teacher or tutor to understand everything. I need to take the initiative to study on my own, practice commands, research topics I do not understand, and ask questions when I face difficulties. This approach helps me become more independent and take ownership of my progress.
-
-
 
 ### Truth #3
 
@@ -104,7 +99,7 @@ By 2030, Arowolo's journey demonstrated that meaningful career growth did not ha
 Create a LinkedIn post sharing your published article, then add the URL below.
 
 ```text
-Paste your LinkedIn post URL here...
+https://lnkd.in/p/emkA27dN
 ```
 
 ### Credit Note — DMI Self-Paced Engineer Track Students
@@ -177,16 +172,16 @@ Your list must include learning or skills, output or proof, health or energy, ti
 
 ### My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Projects completed and deployed
+* Hands-on practice sessions completed
+* LinkedIn posts and professional portfolio updates
+* Deep-work sessions completed
+* Tasks completed according to plan
+* Income earned
+* Savings 
+* Weekly review and planning sessions
+* Hours of sleep
+* Exercise and physical activity
 
 ---
 
@@ -205,22 +200,31 @@ No
 ### Step 2 — My Three-Month Routine and Focus Blocks
 
 #### My Weekly Routine
+For the next three months, I will follow a balanced weekly routine that allows me to improve my technical skills while managing my other responsibilities. My focus will be on learning and completing DMI assignments, practising Linux and Bash commands, improving my Python skills, and developing my understanding of networking, cloud computing, and DevOps.
 
-Add your answer here...
+I will study from Monday to Thursday and use Sunday for a longer learning session, project work, or reviewing what I have learned. I will focus on completing practical tasks rather than only watching tutorials or reading materials. I will also review my progress regularly and adjust my routine when necessary to keep it realistic and sustainable.
+
 
 #### When Will I Complete My DMI Work? (Include Days and Time)
 
-Add your answer here...
+Monday: 9:00 AM–12:30 PM
+Tuesday: 9:00 AM–12:30 PM
+Wednesday: 9:00 AM–12:30 PM
+Thursday: 9:00 AM–12:30 PM
+Sunday: 5:00 PM–10:00 PM
+
 
 #### How Many DMI Work Sessions Will I Complete Each Week?
 
-Add your answer here...
+To keep my plan realistic, I will treat Monday to Thursday as my available weekday study slots and Sunday as my longer weekend slot. I will complete four focused DMI sessions each week, choosing the most suitable slots according to my responsibilities. I will use these sessions for learning, assignments, hands-on practice, documentation, and project work.
+
+During each session, I will set one clear goal before I begin. For example, I may practise a set of Bash commands, complete part of an assignment, solve a Python exercise, or document a technical task on GitHub. At the end of each session, I will record what I completed and what I need to work on next.
 
 #### My Distraction Rules
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Phone and social media
+* Unexected interuption
+* Procrastination
 * Add your answer here...
 
 ---
@@ -229,22 +233,22 @@ Add your answer here...
 
 ### Biggest Insight I Got About Myself This Week
 
-Add your answer here...
+My biggest insight this week was that I can make progress when I take responsibility for my own learning and follow a clear plan. As I learn DevOps, I have realized that understanding technical concepts requires patience, regular practice, and a willingness to ask questions when I do not understand something. I do not need to know everything at once. I need to keep learning, practise what I learn, and improve step by step.
 
 ### My Biggest Weakness or Loop I Noticed
 
-Add your answer here...
+One weakness I need to work on is the tendency to delay tasks when they seem difficult or when I do not feel fully prepared. Sometimes, I may spend too much time trying to understand a topic before putting it into practice. I have realized that this can slow down my progress. I need to start with what I know, practise consistently, and learn from my mistakes instead of waiting for the perfect time or complete understanding.
 
 ### One System I Will Implement From This Week (Exact Habit and Time)
 
-Add your answer here...
+I will follow a consistent study system for the next three months. I will schedule four focused DMI learning sessions each week, using my available weekday evening slots and Sunday morning study time. Before each session, I will set one specific goal, keep my phone and social media away, and focus on completing a practical task. At the end of each session, I will record what I learned and what I need to improve. I will review my progress every Sunday so I can remain accountable and adjust my plan when necessary.
 
 ### Proof of Work
 
 **LinkedIn Post URL**
 
 ```text
-Paste your LinkedIn post URL here...
+https://lnkd.in/p/emkA27dN
 ```
 
 **Blog / Medium / Public Article URL**
@@ -258,20 +262,20 @@ https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-m
 
 ## Completion Checklist
 
-* [ ] All eight tasks are completed.
+* [ ✅] All eight tasks are completed.
 * [ ] All written answers are honest, specific, and written in clear professional sentences.
-* [ ] Task 1 has at least 50 words.
-* [ ] Task 2 includes all three truths and evidence from my life.
-* [ ] Task 3 includes a 300+ word article written in past tense.
-* [ ] My Task 3 article is published on an approved public platform.
-* [ ] I added the correct DMI credit note and replaced `YOUR-GITHUB-USERNAME`.
-* [ ] I published a LinkedIn post sharing my Task 3 article.
-* [ ] Task 5 has 10 non-fiction books with titles and authors.
-* [ ] Task 6 includes learning, output, health, time, and finance metrics.
-* [ ] I completed the private brain dump for Task 7.
-* [ ] I added a realistic three-month routine, DMI focus blocks, and distraction rules.
-* [ ] I completed the Week 1 reflection.
-* [ ] I added both the LinkedIn post and public article URLs under Task 8.
+* [ ✅] Task 1 has at least 50 words.
+* [ ✅] Task 2 includes all three truths and evidence from my life.
+* [✅ ] Task 3 includes a 300+ word article written in past tense.
+* [✅ ] My Task 3 article is published on an approved public platform.
+* [ ✅] I added the correct DMI credit note and replaced `AROWZ-TACH`.
+* [✅ ] I published a LinkedIn post sharing my Task 3 article.
+* [✅ ] Task 5 has 10 non-fiction books with titles and authors.
+* [ ✅] Task 6 includes learning, output, health, time, and finance metrics.
+* [ ✅] I completed the private brain dump for Task 7.
+* [ ✅] I added a realistic three-month routine, DMI focus blocks, and distraction rules.
+* [ ✅] I completed the Week 1 reflection.
+* [ ✅] I added both the LinkedIn post and public article URLs under Task 8.
 
 ---
 
