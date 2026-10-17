@@ -144,7 +144,7 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/eMkjuK8A  | https://medium.com/@kadimussomodani/my-devops-learning-journey-week-00-how-the-internet-actually-works-8aa6eeeb15d6 |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/eMkjuK8A | https://medium.com/@kadimussomodani/my-devops-learning-journey-week-00-how-the-internet-actually-works-8aa6eeeb15d6 |
 | 01 | Success Mindset | ✅ Completed  | ✅ Solved | https://lnkd.in/p/emkA27dN| https://medium.com/@kadimussomodani/from-beginner-to-cloud-and-devops-engineer-my-journey-to-2030-4c1303fafab1?postPublishedType=initial |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
